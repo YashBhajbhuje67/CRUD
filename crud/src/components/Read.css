@@ -1,0 +1,28 @@
+.read {
+    transform: translate(0%, 4%);
+    height: 58.5vh;
+    overflow: auto;
+    border: 2px solid black;
+    background-color: #f2f2f2;
+}
+
+.inputRead {
+    height: 4vh;
+    width: 15vw;
+    transform: translate(90%, 30%);
+    border-radius: 30px;
+    padding: 0px 0px 0px 10px;
+    margin-bottom: 5%;
+}
+
+table {
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: -webkit-fill-available;
+    margin-bottom: 3%;
+}
+
+td {
+    padding: 2px;
+  }

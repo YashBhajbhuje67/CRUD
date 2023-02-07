@@ -1,0 +1,39 @@
+.delete {
+    height: 56vh;
+}
+
+.searchCard {
+    /* border: solid black; */
+    text-align: center;
+    margin: 20px;
+}
+
+.inputdelete {
+    border-radius: 15px;
+    padding: 5px 0px 5px 10px;
+    margin-right: 1.5%;
+}
+
+.del{
+    border: 2px solid rgb(214, 79, 79);
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.delroll {
+    height: 40vh;
+    /* width: 30vw; */
+    margin: 10px;
+    text-align: center;
+    border: solid black;
+}
+
+.yesButton {
+    padding: 10px 15px;
+    margin: 20px;
+}
+
+.noButton {
+    padding: 10px 15px;
+    margin: 20px;
+}

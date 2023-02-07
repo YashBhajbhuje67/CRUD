@@ -1,0 +1,39 @@
+.update {
+    height: 57vh;
+}
+
+.updateCard {
+    text-align: center;
+    margin: 20px;
+}
+
+.roll {
+    padding: 4px 12px;
+    /* border: 1.5px solid black; */
+    border-radius: 15px;
+    margin-right: 1.5%;
+}
+
+.updateButton {
+    padding: 4px 10px;
+    border: 2px solid #d0e065;
+    border-radius: 5px;
+}
+
+.updateForm {
+    text-align: center;
+    height: 45vh;
+    padding: 25px 0px 0px 0px;
+    width: 40vw;
+    display: inline-grid;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+.updatebutton {
+    padding: 4px 10px;
+    border: 2px solid #d0e065;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
